@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/wxbool/video-srt/videosrt"
+	"github.com/cic1988/video-srt/videosrt"
 	"log"
 	"os"
 	"path/filepath"
